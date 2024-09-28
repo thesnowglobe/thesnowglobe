@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h4 align="left">🛠 Favorite languages and tools</h4>
 
 ###
 
